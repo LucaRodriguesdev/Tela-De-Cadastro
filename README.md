@@ -1,35 +1,31 @@
-Aqui está um arquivo README.md personalizado para o seu projeto, estruturado de forma profissional e destacando que ele é fruto dos seus estudos.
+Com certeza! Como você já tem a estrutura técnica pronta, aqui está uma versão do README.md focada no seu perfil acadêmico e técnico, destacando as tecnologias que você utilizou no projeto:
 
-📝 Tela de Cadastro (Projeto de Curso)
-Este é um projeto de uma Tela de Cadastro responsiva e funcional, desenvolvido como parte de um curso de desenvolvimento web. O objetivo principal foi colocar em prática conceitos de estruturação HTML, estilização avançada com CSS e, principalmente, validação de formulários via JavaScript puro (Vanilla JS).
+📝 Tela de Cadastro (Projeto de Estudo)
+Este projeto consiste em uma interface de cadastro moderna e funcional, desenvolvida como parte de um curso de desenvolvimento web. O foco principal foi a implementação de uma validação de formulário personalizada utilizando JavaScript puro (Vanilla JS), sem a dependência de bibliotecas externas.
 
-🚀 Tecnologias Utilizadas
-HTML5: Estruturação semântica do formulário de registro.
 
-CSS3: Estilização personalizada, uso de Flexbox para o layout e efeitos de foco (focus) nos inputs.
 
-JavaScript (ES6+): Implementação de uma lógica de validação baseada em classes e atributos data-*.
+💻 Sobre o Projeto
+O sistema permite o registro de usuários validando diversos critérios de entrada através de uma arquitetura baseada em classes no JavaScript. O layout foi construído para ser limpo e intuitivo, com feedback visual imediato para o usuário.
 
-⚙️ Funcionalidades
-O projeto conta com um sistema de validação robusto que verifica diversos critérios antes de permitir o envio dos dados:
+Tecnologias Utilizadas
+HTML5: Estruturação dos campos de entrada e uso de atributos data-* para controle de validação.
 
-Campos Obrigatórios: Verifica se os campos essenciais foram preenchidos.
+CSS3: Estilização com Flexbox, uso de fontes externas e design responsivo.
 
-Mínimo e Máximo de Caracteres: Garante que o nome e e-mail tenham tamanhos apropriados.
+JavaScript (ES6): Implementação de uma classe Validator para gerenciar a lógica de erros e manipulação do DOM.
 
-Apenas Letras: Validação específica para o campo de sobrenome.
 
-Validação de E-mail: Checa se o formato inserido corresponde a um endereço de e-mail válido.
 
-Segurança de Senha: Exige que a senha contenha, no mínimo, uma letra maiúscula e um número.
+🛠️ Funcionalidades e Validações
+O script de validação verifica automaticamente:
 
-Confirmação de Senha: Verifica se os dois campos de senha são idênticos.
+Campos Obrigatórios: Impede o envio se houver campos vazios.
 
-🎨 Layout
-A interface apresenta um design moderno com:
+Formato de E-mail: Validação via Regex para garantir um endereço válido.
 
-Fundo estilizado com imagem noturna de uma metrópole.
+Requisitos de Senha: A senha deve conter pelo menos uma letra maiúscula e um número.
 
-Container centralizado com cantos arredondados.
+Confirmação de Dados: Verifica se a senha e a confirmação são idênticas.
 
-Feedback visual de erros em tempo real logo abaixo dos campos.
+Restrições de Caracteres: Limites de tamanho (mínimo/máximo) e aceitação apenas de letras em campos específicos.
