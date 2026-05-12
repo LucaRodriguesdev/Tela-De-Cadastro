@@ -1,12 +1,12 @@
 
 
 📝 **Tela de Cadastro (Projeto de Estudo)**
-Este projeto consiste em uma interface de cadastro moderna e funcional, desenvolvida como parte de um curso de desenvolvimento web. O foco principal foi a implementação de uma validação de formulário personalizada utilizando JavaScript puro (Vanilla JS), sem a dependência de bibliotecas externas.
+Este projeto consiste em uma interface de cadastro moderna e funcional, desenvolvida como parte de um curso de desenvolvimento web. O foco principal foi a implementação de uma validação de formulário personalizada utilizando JavaScript puro (Vanilla JS), sem a dependência de bibliotecas externas....
 
 
 
 💻 **Sobre o Projeto**
-O sistema permite o registro de usuários validando diversos critérios de entrada através de uma arquitetura baseada em classes no JavaScript. O layout foi construído para ser limpo e intuitivo, com feedback visual imediato para o usuário.
+O sistema permite o registro de usuários validando diversos critérios de entrada através de uma arquitetura baseada em classes no JavaScript. O layout foi construído para ser limpo e intuitivo, com feedback visual imediato para o usuário...
 
 **Tecnologias Utilizadas**
 HTML5: Estruturação dos campos de entrada e uso de atributos data-* para controle de validação.
